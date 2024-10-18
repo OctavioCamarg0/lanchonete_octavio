@@ -1,0 +1,1 @@
+enum TpProduto {Comida, Bebida}
